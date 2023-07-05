@@ -24,11 +24,3 @@
          	die ( "Database access access ERROR:" . $con->error);
          }
 ?>
-
-
-
-fhgvhjgfvgchg
-
-
-
-hgvjhvjvj
